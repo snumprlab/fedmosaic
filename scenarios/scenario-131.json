@@ -1,0 +1,22 @@
+[
+    {
+        "client_id": 0,
+        "datasets":[
+            {"dataset": "Fashion200K","subset_id": 40, "type":"multi-choice"},
+            {"dataset": "MagicBrush","subset_id": 41, "type":"multi-choice"},
+            {"dataset": "VISION","subset_id": 40, "type":"multi-choice"},
+            {"dataset": "FashionIQ","subset_id": 40, "type":"multi-choice"}
+        ],
+        "model_id": "thkim0305/llama3.2_1B_vl"
+    },
+    {
+        "client_id": 1,
+        "datasets":[
+            {"dataset": "VSR","subset_id": 40,"type":"multi-choice"},
+            {"dataset": "VISION","subset_id": 41, "type":"multi-choice"},
+            {"dataset": "Fashion200K","subset_id": 43, "type":"multi-choice"},
+            {"dataset": "NLVR2","subset_id": 40,"type":"multi-choice"}
+        ],
+        "model_id": "thkim0305/llama3.1_8B_vl"
+    }
+]

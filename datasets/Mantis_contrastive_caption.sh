@@ -1,0 +1,3 @@
+gdrive files download 1BGdqbzoD9LDrgT_6LW1Ujp311gNPSFIF
+tar -xvf Mantis_contrastive_caption.tar
+rm Mantis_contrastive_caption.tar

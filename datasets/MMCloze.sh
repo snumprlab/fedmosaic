@@ -1,0 +1,15 @@
+gdrive files download 1XhCaw6vUJ1UU8O-pTF3t2hXLRLnQEapq
+unzip RecipeQA_TextCloze.zip
+rm RecipeQA_TextCloze.zip
+
+gdrive files download 1M7PyTJz1X6J9OAkq8Lc1Ptd_AGhy7Km8
+unzip RecipeQA_VisualCloze.zip
+rm RecipeQA_VisualCloze.zip
+
+gdrive files download 1XfFkmtfkE_jyVs9s52U5kI0y4xvcMpcf
+unzip RecipeQA_ImageCoherence.zip
+rm RecipeQA_ImageCoherence.zip
+
+gdrive files download 1XFlCbnf6GnROxoIneLlgxkdQgrX8stbf
+unzip COMICS_Dialogue.zip
+rm COMICS_Dialogue.zip

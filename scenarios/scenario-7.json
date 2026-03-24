@@ -1,0 +1,30 @@
+[
+    {
+        "client_id": 0,
+        "datasets":[
+            {"dataset": "RecipeQA_ImageCoherence","subset_id": 0,"type":"multi-choice"}
+        ],
+        "model_id": "thkim0305/llama3.2_1B_vl"
+    },
+    {
+        "client_id": 1,
+        "datasets":[
+            {"dataset": "RecipeQA_VisualCloze","subset_id": 0, "type":"multi-choice"}
+        ],
+        "model_id": "thkim0305/llama3.2_1B_vl"
+    },
+    {
+        "client_id": 2,
+        "datasets":[
+            {"dataset": "PickaPic","subset_id": 0, "type":"multi-choice"}
+        ],
+        "model_id": "thkim0305/llama3.2_1B_vl"
+    },
+    {
+        "client_id": 3,
+        "datasets":[
+            {"dataset": "Co-Instruct-DB","subset_id": 7, "type":"multi-choice"}
+        ],
+        "model_id": "thkim0305/llama3.2_1B_vl"
+    }
+]
