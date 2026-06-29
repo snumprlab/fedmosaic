@@ -323,3 +323,4 @@ If you find our work helpful in your research, please consider citing our paper.
 ## 🙌 Acknowledgements
 
 We sincerely thank the open-source community — this work builds on top of many excellent projects including [LLaVA](https://github.com/haotian-liu/LLaVA), [HuggingFace Transformers](https://github.com/huggingface/transformers), [PEFT](https://github.com/huggingface/peft), and [DeepSpeed](https://github.com/microsoft/DeepSpeed). We hope this codebase serves as a useful starting point for the federated and continual learning community, and we warmly welcome any questions, issues, or contributions. 😊
+
